@@ -4,3 +4,9 @@ c:\users\yaroslav\documents\visual studio 2017\Projects\IpNuke\IpNuke\bin\Debug\
 c:\users\yaroslav\documents\visual studio 2017\Projects\IpNuke\IpNuke\obj\Debug\IpNuke.csprojResolveAssemblyReference.cache
 c:\users\yaroslav\documents\visual studio 2017\Projects\IpNuke\IpNuke\obj\Debug\IpNuke.exe
 c:\users\yaroslav\documents\visual studio 2017\Projects\IpNuke\IpNuke\obj\Debug\IpNuke.pdb
+C:\Users\YAROSLAV\Documents\GitHub\IpNuke\IpNuke\bin\Debug\IpNuke.exe.config
+C:\Users\YAROSLAV\Documents\GitHub\IpNuke\IpNuke\bin\Debug\IpNuke.exe
+C:\Users\YAROSLAV\Documents\GitHub\IpNuke\IpNuke\bin\Debug\IpNuke.pdb
+C:\Users\YAROSLAV\Documents\GitHub\IpNuke\IpNuke\obj\Debug\IpNuke.csprojResolveAssemblyReference.cache
+C:\Users\YAROSLAV\Documents\GitHub\IpNuke\IpNuke\obj\Debug\IpNuke.exe
+C:\Users\YAROSLAV\Documents\GitHub\IpNuke\IpNuke\obj\Debug\IpNuke.pdb

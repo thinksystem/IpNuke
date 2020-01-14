@@ -11,7 +11,9 @@ namespace IpNuke
 
         static void Main(string[] args)
         {
-            PrintInColor("Started ip nuke on " + targethost, ConsoleColor.Yellow);
+            PrintInColor("Enter target hostname (please write a valid hostname)", ConsoleColor.Yellow);
+            targethost = Console.ReadLine();
+            PrintInColor("Started ip nuke on " + targethost, ConsoleColor.Green);
             NukeIp();
         }
         static public void NukeIp()
