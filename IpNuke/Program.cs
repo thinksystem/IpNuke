@@ -7,7 +7,7 @@ namespace IpNuke
     class Program
     {
 
-        static string targethost = ("80.30.199.231");
+        static string targethost = ("invalid host name");
 
         static void Main(string[] args)
         {
